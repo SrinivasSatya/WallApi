@@ -1,6 +1,5 @@
-
-  
-    "wall_post": {
+[{
+	    "wall_post": {
       "postId": 10001,
       "postType": 1,
       "data": {},
@@ -32,4 +31,6 @@
     ],
     "likesCount": 10,
     "WabApiLink": "https://my-json-server.typicode.com/SrinivasSatya/NewWall"
+  
+}]
   
